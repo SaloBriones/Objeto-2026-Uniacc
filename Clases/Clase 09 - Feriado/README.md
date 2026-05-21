@@ -1,12 +1,18 @@
 Comentarios dados en clase: definir que datos/información va a ser recabada, no tienen que ser sólo números, realizar bosquejo del fanzine, no hacerlo tan personal, considerar registro fotográfico.
 
-Cambios de la propuesta inicial: 
+Cambios de la propuesta inicial: Registro fotográfico, escrito y dibujado de las performances en transporte público, ya no se acumularán tantos datos numéricos, más enfocado a la experiencia, detalles de los instrumentos, registro de las canciones, de las personas (si consienten).
 
-Definición del objeto:
+Definición del objeto: 
 
 Boceto de montaje:
 
-Investigación sobre HAMBREHAMBREHAMBRE:
+Investigación sobre HAMBREHAMBREHAMBRE: 
+
+Colectivo fanzinero activo desde hace 6 años, Camila González Simón y Daniela Josefina son editoras de HAMBRE, se encontraban realizando una Fanzinoteca en el Museo Violeta Parra en 2025. Consideran al fanzine como una "práctica disidente", "íntimamente producidas" y que "permite experimentar una lectura corporal", siendo a menudo multidisciplinares y dando espacio a comunidades subrepresentadas.
+
+Realizan talleres y durante el estallido social de 2019, organizaron ACCIÓN GRÁFICA URGENTE, enfocándose en crear y distribuir afiches de protesta. Fueron reconocidas con el Publisher Work Grant de la fundación Wagner y Printed Matter, que fomentan a editoriales independientes.
+
+A menudo combinan la técnica de la risografía con artesanía a mano, permitiendo la creación de varias copias.
 
 Escritura de Estrategias Oblicuas: 
 
