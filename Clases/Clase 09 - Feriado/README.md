@@ -16,6 +16,10 @@ Definición del objeto: Performances en el transporte público, registro escrito
 
 Boceto de montaje:
 
+![image alt](https://github.com/SaloBriones/Objeto-2026-Uniacc/blob/593faf5153d80abb051ba1251e2b3cdd3ee5417a/FANZINE.jpg)
+
+![image alt]((https://github.com/SaloBriones/Objeto-2026-Uniacc/blob/593faf5153d80abb051ba1251e2b3cdd3ee5417a/ESQUEMA_FANZINE.jpg))
+
 Investigación sobre HAMBREHAMBREHAMBRE: 
 
 Colectivo fanzinero activo desde hace 6 años, Camila González Simón y Daniela Josefina son editoras de HAMBRE, se encontraban realizando una Fanzinoteca en el Museo Violeta Parra en 2025. Consideran al fanzine como una "práctica disidente", "íntimamente producidas" y que "permite experimentar una lectura corporal", siendo a menudo multidisciplinares y dando espacio a comunidades subrepresentadas.
