@@ -18,7 +18,7 @@ Boceto de montaje:
 
 ![image alt](https://github.com/SaloBriones/Objeto-2026-Uniacc/blob/593faf5153d80abb051ba1251e2b3cdd3ee5417a/FANZINE.jpg)
 
-![image alt]((https://github.com/SaloBriones/Objeto-2026-Uniacc/blob/593faf5153d80abb051ba1251e2b3cdd3ee5417a/ESQUEMA_FANZINE.jpg))
+![image alt](https://github.com/SaloBriones/Objeto-2026-Uniacc/blob/593faf5153d80abb051ba1251e2b3cdd3ee5417a/ESQUEMA_FANZINE.jpg)
 
 Investigación sobre HAMBREHAMBREHAMBRE: 
 
