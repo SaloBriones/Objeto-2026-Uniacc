@@ -8,4 +8,4 @@ Imagen de referencia del trabajo: ![alt text]()
 ![alt text]()
 ![alt text]()
 ![alt text]()
-Maqueta de obra: traer un avance del fanzine u obra física que estén construyendo, lo más avanzada posible. Necesario para tener nociones de materialidad, dimensiones y poder diseñar el espacio expositivo.
+Maqueta de obra: traer un avance del fanzine u obra física que estén construyendo, lo más avanzada posible. Necesario para tener nociones de materialidad, dimensiones y poder diseñar el espacio expositivo
