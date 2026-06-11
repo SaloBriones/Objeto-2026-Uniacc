@@ -42,3 +42,7 @@ Avances de fanzine:
 ![Fanzine imagen]()
 ![Fanzine imagen 2]()
 ![Fanzine dibujo]()
+Sistema para leer QRs:
+https://4qrcode.com/scan-qr-code.php?lang=es
+Sistema para crear QRs:
+https://online-qr-generator.com/es/create?step=1&qr_onboarding=active_dpf&fx=c%C3%B3digo-QR&utm_source=google&utm_medium=cpc&utm_id=21108529912&utm_content=b&utm_term=c%C3%B3digo+qr&network=g&matchtype=b&device=c&gaid=CL-ES-C-DPF&gad_source=1&gad_campaignid=21108529912&gbraid=0AAAAAqXkI5vO1W5EM9osVXMRygJvKGnVb&gclid=CjwKCAjwuanRBhBSEiwAY5y6V019wH3XbjWL6XQSIjynclYa-PFL4S5B6_mkMPrI18KXS1C3wwmoChoCpAcQAvD_BwE
